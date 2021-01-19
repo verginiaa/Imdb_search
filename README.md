@@ -1,5 +1,7 @@
 # Movies
 Imdb movie and series search. 
+## Api used :
+https://imdb-api.com/
 ## Options allowed :
 1. Box office
 2. In theater
