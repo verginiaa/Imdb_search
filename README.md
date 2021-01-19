@@ -10,3 +10,14 @@ Imdb movie and series search.
 7. Search series
 8. Most popular series
 9. Top 250 series
+![](./screenshots/Menu.jpeg)
+![](./screenshots/titanicLogo.jpeg)
+![](./screenshots/titanicTrailer.jpeg)
+![](./screenshots/titanicCast.jpeg)
+![](./screenshots/popM.jpeg)
+![](./screenshots/top250BB.jpeg)
+![](./screenshots/bb.jpeg)
+![](./screenshots/bbt.jpeg)
+![](./screenshots/searchSeason.jpeg)
+![](./screenshots/ep1.jpeg)
+![](./screenshots/ep2.jpeg)
